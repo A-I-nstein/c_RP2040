@@ -23,7 +23,7 @@ Check the respective project readme files.
 
 ## Programs
 
-`Examples`: Example programs demonstrating the basic usage of certain peripherals.
+`Examples`: Example programs demonstrating the basic usage of certain peripherals and sensors.
 
 ## Credit
 
