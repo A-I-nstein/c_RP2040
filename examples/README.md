@@ -69,3 +69,7 @@ This project implements a Direct Digital Synthesis (DDS) system on the Raspberry
 * The code will generate an amplitude-modulated sine wave, creating a beeping sound from the connected DAC.
 * The beeping sound will have an attack phase where its amplitude gradually increases, followed by a decay phase where its amplitude gradually decreases.
 * There will be a silent interval between beeps, after which the beeping cycle will repeat continuously.
+
+## 5. RP2040 Beep with SPI DAC and Fixed-Point Arithmetic
+
+This project implements a Direct Digital Synthesis (DDS) system on the Raspberry Pi Pico (RP2040) to generate an amplitude-modulated sine wave, outputting it through an external Digital-to-Analog Converter (DAC) via SPI. The program uses fixed-point arithmetic instead of float arithmetic.
