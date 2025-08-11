@@ -25,6 +25,8 @@ Check the respective project readme files.
 
 `Examples`: Example programs demonstrating the basic usage of certain peripherals and sensors.
 
+`Birdsong DDS`: Synthesizing birdsong using Direct Digital Synthesis and Fixed-Point Arithmetic
+
 ## Credit
 
 This project builds upon concepts and code found in [Hunter-Adams-RP2040-Demos](https://github.com/vha3/Hunter-Adams-RP2040-Demos).
