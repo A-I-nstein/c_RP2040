@@ -36,7 +36,7 @@ fix15 max_amplitude = int2fix15(1);
 #define ATTACK_TIME 250
 #define SWOOP_DURATION 6500
 #define CHIRP_DURATION 6500
-#define REPEAT_INTERVAL 10000
+#define REPEAT_INTERVAL 6500
 
 // dds
 #define DELAY 20
